@@ -10,6 +10,7 @@ ammoTypes: {
       ammoMultiplier: 2
       reloadMultiplier: 1.7
       knockback: 0.3
+      trailChance: 1
       trailEffect: {
          type: ParticleEffect
          particles: 10
@@ -31,6 +32,7 @@ ammoTypes: {
       pierceCap: 2
       pierceBuilding: true
       knockback: 0.7
+      trailChance: 1
       trailEffect: {
          type: ParticleEffect
          particles: 10
@@ -59,6 +61,7 @@ ammoTypes: {
       ammoMultiplier: 3
       splashDamage: 20
       splashDamageRadius: 25
+      trailChance: 1
       trailEffect: {
          type: ParticleEffect
          particles: 10
