@@ -30,8 +30,6 @@ ammoTypes: {
       hitSize: 5
       width: 16
       height: 23
-      frontColor: f9a3c7
-      backColor: f9a3c7
       shootEffect: shootBig
       pierceCap: 2
       pierceBuilding: true
