@@ -41,7 +41,6 @@ ammoTypes: {
          lifetime: 4
          }
       }
-      }
    pyratite: {
       type: BasicBulletType
       speed: 7
