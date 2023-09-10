@@ -12,14 +12,17 @@ shootType: {
    ammoMultiplier: 1
    shootEffect: {
       type: ParticleEffect
+      interp: pow5Out
+      sizeInterp: pow10In
       particles: 10
       colorFrom: E2E3E955
       colorTo: E2E3E955
-      sizeFrom: 1.9
-      sizeTo: 1
-      baseLength: 3.5
-      length: 0
-      lifetime: 20
+      sizeFrom: 6
+      sizeTo: 0
+      baseLength: 0
+      length: 200
+      lifetime: 170
       cone: 20
+      layer: 110
       }
 }
