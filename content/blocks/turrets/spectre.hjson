@@ -6,6 +6,7 @@ ammoTypes: {
       hitSize: 15
       width: 15
       height: 21
+      backColor: 93AFEA
       shootEffect: shootBig
       ammoMultiplier: 2
       reloadMultiplier: 1.7
@@ -30,6 +31,7 @@ ammoTypes: {
       hitSize: 5
       width: 16
       height: 23
+      backColor: f9a3c7
       shootEffect: shootBig
       pierceCap: 2
       pierceBuilding: true
