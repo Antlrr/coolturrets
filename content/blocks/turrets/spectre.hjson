@@ -19,8 +19,8 @@ ammoTypes: {
          baseLength: 4
          length: 0
          lifetime: 5
-         colorFrom: f0f8ff55
-         colorTo: f0f8ff55
+         colorFrom: 93AFEA8C
+         colorTo: 93AFEA55
          }
       }
    thorium: {
@@ -43,7 +43,7 @@ ammoTypes: {
          baseLength: 4
          length: 0
          lifetime: 5
-         colorFrom: f9a3c755
+         colorFrom: f9a3c78c
          colorTo: f9a3c755
          }
       }
@@ -74,7 +74,7 @@ ammoTypes: {
          baseLength: 4
          length: 0
          lifetime: 5
-         colorFrom: f6802155
+         colorFrom: f680218c
          colorTo: f6802155
          }
      }
