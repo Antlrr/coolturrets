@@ -1,0 +1,9 @@
+{
+   "name": "bta",
+   "displayName": "Better Turret Animations", 
+   "author": "Antlrr",
+   "description": "makes the turrets look more dapper",
+   "version": "1.0",
+   "minGameVersion": "136",
+   "hidden": "false"
+}
