@@ -18,7 +18,9 @@ ammoTypes: {
          sizeTo: 2.7
          baseLength: 4
          length: 0
-         lifetime: 10
+         lifetime: 5
+         colorFrom: ffd37f55
+         colorTo: ffd37f55
          }
       }
    thorium: {
@@ -40,7 +42,9 @@ ammoTypes: {
          sizeTo: 2.7
          baseLength: 4
          length: 0
-         lifetime: 10
+         lifetime: 5
+         colorFrom: ffd37f55
+         colorTo: ffd37f55
          }
       }
    pyratite: {
@@ -69,9 +73,9 @@ ammoTypes: {
          sizeTo: 2.7
          baseLength: 4
          length: 0
-         lifetime: 10
-         colorFrom: f68021
-         colorTo: f68021
+         lifetime: 5
+         colorFrom: f6802155
+         colorTo: f6802155
          }
      }
 }
