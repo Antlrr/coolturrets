@@ -1,0 +1,76 @@
+ammoTypes: {
+   graphite: {
+      type: BasicBulletType
+      speed: 7.5
+      damage: 50
+      hitSize: 15
+      width: 15
+      height: 21
+      shootEffect: shootBig
+      ammoMultiplier: 2
+      reloadMultiplier: 1.7
+      knockback: 0.3
+      trailEffect: {
+         type: ParticleEffect
+         particles: 10
+         sizeFrom: 3
+         sizeTo: 2.7
+         baseLength: 3.5
+         length: 0
+         lifetime: 4
+         }
+      }
+   thorium: {
+      type: BasicBulletType
+      speed: 8
+      damage: 80
+      hitSize: 5
+      width: 16
+      height: 23
+      shootEffect: shootBig
+      pierceCap: 2
+      pierceBuilding: true
+      knockback: 0.7
+      trailEffect: {
+         type: ParticleEffect
+         particles: 10
+         sizeFrom: 3
+         sizeTo: 2.7
+         baseLength: 3.5
+         length: 0
+         lifetime: 4
+         }
+      }
+      }
+   pyratite: {
+      type: BasicBulletType
+      speed: 7
+      damage: 70
+      hitSize: 5
+      width: 16
+      height: 21
+      frontColor: f8ad42
+      backColor: f68021
+      status: burning
+      hitEffect: fireHit
+      shootEffect: shootBig
+      pierceCap: 2
+      pierceBuilding: true
+      knockback: 0.6
+      ammoMultiplier: 3
+      splashDamage: 20
+      splashDamageRadius: 25
+      trailEffect: {
+         type: ParticleEffect
+         particles: 10
+         sizeFrom: 3
+         sizeTo: 2.7
+         baseLength: 3.5
+         length: 0
+         lifetime: 4
+         colorFrom: f68021
+         colorTo: f68021
+         }
+         }
+     }
+}
