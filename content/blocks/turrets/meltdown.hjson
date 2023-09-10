@@ -1,0 +1,25 @@
+shootType: {
+   type: ContinuousLaserBulletType
+   damage: 78
+   length: 200
+   hitEffect: hitMeltdown
+   hitColor: meltdownHit
+   status: melting
+   drawSize: 420
+   incendChance: 0.4
+   incendSpread: 5
+   incendAmount: 1
+   ammoMultiplier: 1
+   shootEffect: {
+      type: ParticleEffect
+      particles: 10
+      colorFrom: E2E3E955
+      colorTo: E2E3E955
+      sizeFrom: 1.9
+      sizeTo: 1
+      baseLength: 3.5
+      length: 0
+      lifetime: 20
+      cone: 20
+      }
+}
