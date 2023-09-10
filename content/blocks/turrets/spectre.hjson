@@ -15,7 +15,7 @@ ammoTypes: {
          type: ParticleEffect
          particles: 10
          sizeFrom: 3
-         sizeTo: 2.7
+         sizeTo: 1.8
          baseLength: 4
          length: 0
          lifetime: 5
@@ -39,7 +39,7 @@ ammoTypes: {
          type: ParticleEffect
          particles: 10
          sizeFrom: 3
-         sizeTo: 2.7
+         sizeTo: 1.8
          baseLength: 4
          length: 0
          lifetime: 5
@@ -70,7 +70,7 @@ ammoTypes: {
          type: ParticleEffect
          particles: 10
          sizeFrom: 3
-         sizeTo: 2.7
+         sizeTo: 1.8
          baseLength: 4
          length: 0
          lifetime: 5
