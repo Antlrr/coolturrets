@@ -15,9 +15,9 @@ ammoTypes: {
          particles: 10
          sizeFrom: 3
          sizeTo: 2.7
-         baseLength: 3.5
+         baseLength: 4
          length: 0
-         lifetime: 4
+         lifetime: 10
          }
       }
    thorium: {
@@ -36,9 +36,9 @@ ammoTypes: {
          particles: 10
          sizeFrom: 3
          sizeTo: 2.7
-         baseLength: 3.5
+         baseLength: 4
          length: 0
-         lifetime: 4
+         lifetime: 10
          }
       }
    pyratite: {
@@ -64,9 +64,9 @@ ammoTypes: {
          particles: 10
          sizeFrom: 3
          sizeTo: 2.7
-         baseLength: 3.5
+         baseLength: 4
          length: 0
-         lifetime: 4
+         lifetime: 10
          colorFrom: f68021
          colorTo: f68021
          }
