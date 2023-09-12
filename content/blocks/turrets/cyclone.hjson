@@ -19,7 +19,7 @@ ammoTypes: {
          particles: 10
          sizeFrom: 2
          sizeTo: 1.8
-         baseLength: 4
+         baseLength: 3
          length: 0
          lifetime: 5
          colorFrom: FFFFFF8C
@@ -44,7 +44,7 @@ ammoTypes: {
             particles: 10
             sizeFrom: 1.5
             sizeTo: 1.8
-            baseLength: 4
+            baseLength: 3
             length: 0
             lifetime: 3
             colorFrom: FFFFFF8C
@@ -71,7 +71,7 @@ ammoTypes: {
          particles: 10
          sizeFrom: 2
          sizeTo: 1.8
-         baseLength: 4
+         baseLength: 3
          length: 0
          lifetime: 5
          colorFrom: e054388C
@@ -97,11 +97,11 @@ ammoTypes: {
          particles: 10
          sizeFrom: 2
          sizeTo: 1.8
-         baseLength: 4
+         baseLength: 3
          length: 0
          lifetime: 5
-         colorFrom: fffac68C
-         colorTo: fffac655
+         colorFrom: a1b46e8C
+         colorTo: a1b46e55
          }
       fragBullets: 6
       explodeRange: 20
@@ -124,11 +124,11 @@ ammoTypes: {
             particles: 10
             sizeFrom: 1.5
             sizeTo: 1.8
-            baseLength: 4
+            baseLength: 3
             length: 0
             lifetime: 3
-            colorFrom: fffac68C
-            colorTo: fffac655
+            colorFrom: a1b46e8C
+            colorTo: a1b46e55
             }
          }
       }
