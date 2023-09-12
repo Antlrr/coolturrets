@@ -132,24 +132,20 @@ ammoTypes: {
             }
          }
       }
-   sand: {
-      type: BasicBulletType
-      speed: 7
-      damage: 70
-      hitSize: 5
-      width: 16
-      height: 21
-      frontColor: f8ad42
-      backColor: f68021
-      status: burning
-      hitEffect: fireHit
+   surge: {
+      type: FlakBulletType
+      speed: 4.5
+      damage: 13
+      ammoMultiplier: 5
+      splashDamage: 75
+      splashDamageRadius: 38
+      lightning: 2
+      lightningLength: 7
+      frontColor: f3e979
+      backColor: f3e979
       shootEffect: shootBig
-      pierceCap: 2
-      pierceBuilding: true
-      knockback: 0.6
-      ammoMultiplier: 3
-      splashDamage: 20
-      splashDamageRadius: 25
+      collidesGround: true
+      explodeRange: 20
       trailChance: 1
       trailEffect: {
          type: ParticleEffect
@@ -159,8 +155,8 @@ ammoTypes: {
          baseLength: 4
          length: 0
          lifetime: 5
-         colorFrom: f680218c
-         colorTo: f6802155
+         colorFrom: f3e9798c
+         colorTo: f3e97955
          }
      }
 }
