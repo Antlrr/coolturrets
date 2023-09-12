@@ -97,7 +97,7 @@ ammoTypes: {
          particles: 10
          sizeFrom: 2
          sizeTo: 1.8
-         baseLength: 3
+         baseLength: 3.4
          length: 0
          lifetime: 5
          colorFrom: a1b46e8C
@@ -152,7 +152,7 @@ ammoTypes: {
          particles: 10
          sizeFrom: 3
          sizeTo: 1.8
-         baseLength: 4
+         baseLength: 3
          length: 0
          lifetime: 5
          colorFrom: f3e9798c
