@@ -132,7 +132,7 @@ ammoTypes: {
             }
          }
       }
-   surge: {
+   surge-alloy: {
       type: FlakBulletType
       speed: 4.5
       damage: 13
