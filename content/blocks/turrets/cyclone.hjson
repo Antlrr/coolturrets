@@ -17,7 +17,7 @@ ammoTypes: {
       trailEffect: {
          type: ParticleEffect
          particles: 10
-         sizeFrom: 3
+         sizeFrom: 2
          sizeTo: 1.8
          baseLength: 4
          length: 0
@@ -42,7 +42,7 @@ ammoTypes: {
          trailEffect: {
             type: ParticleEffect
             particles: 10
-            sizeFrom: 3
+            sizeFrom: 1.5
             sizeTo: 1.8
             baseLength: 4
             length: 0
@@ -69,7 +69,7 @@ ammoTypes: {
       trailEffect: {
          type: ParticleEffect
          particles: 10
-         sizeFrom: 3
+         sizeFrom: 2
          sizeTo: 1.8
          baseLength: 4
          length: 0
@@ -95,7 +95,7 @@ ammoTypes: {
       trailEffect: {
          type: ParticleEffect
          particles: 10
-         sizeFrom: 3
+         sizeFrom: 2
          sizeTo: 1.8
          baseLength: 4
          length: 0
@@ -122,7 +122,7 @@ ammoTypes: {
          trailEffect: {
             type: ParticleEffect
             particles: 10
-            sizeFrom: 3
+            sizeFrom: 1.5
             sizeTo: 1.8
             baseLength: 4
             length: 0
