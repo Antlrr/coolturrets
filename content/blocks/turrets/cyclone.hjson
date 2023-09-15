@@ -63,7 +63,7 @@ ammoTypes: {
       collidesGround: true
       status: blasted
       statusDuration: 60
-      frontColor: e05438
+      frontColor: FF8080
       backColor: f98f4a
       trailChance: 1
       trailEffect: {
@@ -74,8 +74,8 @@ ammoTypes: {
          baseLength: 3
          length: 0
          lifetime: 5
-         colorFrom: e054388C
-         colorTo: e0543855
+         colorFrom: FF80808C
+         colorTo: FF808055
          }
       }
    plastanium: {
